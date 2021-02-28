@@ -7,7 +7,8 @@
 ![alt text](https://github.com/maloleg/UgraCTF_antivirus/blob/master/2.png?raw=true) <br />
 
 заметим странный формат отправки типа, попробуем его поменять на рандомный: <br />
-![alt text](https://github.com/maloleg/UgraCTF_antivirus/blob/master/3.png?raw=true) <br />
+
+![alt text](https://github.com/maloleg/UgraCTF_antivirus/blob/master/7.png?raw=true) <br />
 
 видимо отсылаемое название просто отсылается на сервер и там пытается исполнится соответственный питоновский скрипт. Также мы видим куда отсылаются наши файлы. <br />
 
